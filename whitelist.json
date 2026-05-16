@@ -1,0 +1,19 @@
+{
+    "auto_whitelist_duration_days": 365,
+    "description": "Auto whitelist duration in days",
+    "metadata": {
+        "created": "2026-05-11",
+        "last_updated": "2026-05-11",
+        "unit": "days"
+    },
+    "whitelisted_uids": {
+        "14519466291": {
+            "whitelist_start": "2026-05-11T00:00:00Z",
+            "whitelist_end": "2027-05-11T00:00:00Z"
+        },
+        "0987654321": {
+            "whitelist_start": "2026-05-11T00:00:00Z",
+            "whitelist_end": "2027-05-11T00:00:00Z"
+        }  
+    }
+}
